@@ -123,7 +123,27 @@ Subject: 暑気払いのお誘い<br/>
  
 <br>以上、よろしくお願いいたします。<br/>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
+<br><br><br><br><br>
 	</div></div>
+	
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2018年2月2日、桑原さん中国北京駐在、壮行会 !!!</marquee></span></h2>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
+<a href="IMG_E0356.JPG" class="preview"><img src="IMG_E0356.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="IMG_E0357.JPG" class="preview"><img src="IMG_E0357.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_E0358.JPG" class="preview"><img src="IMG_E0358.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_E0359.JPG" class="preview"><img src="IMG_E0359.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_E0350.JPG" class="preview"><img src="IMG_E0350.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_E0351.JPG" class="preview"><img src="IMG_E0351.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_E0352.JPG" class="preview"><img src="IMG_E0352.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_E0353.JPG" class="preview"><img src="IMG_E0353.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_E0354.JPG" class="preview"><img src="IMG_E0354.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_E0355.JPG" class="preview"><img src="IMG_E0355.JPG" alt="サンプル画像" width="180" /></a>
+</div>
+
+<br><br>
+	
   </body>
 
 </html>
