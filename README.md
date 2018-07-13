@@ -78,11 +78,11 @@ body::before {
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
 <a href="IMG_1874.JPG" class="preview"><img src="IMG_1874.JPG" alt="サンプル画像" width="1800" /></a>
-<a href="IMG_1869.jpg" class="preview"><img src="IMG_1869.jpg" alt="サンプル画像" width="180" /></a>
-<a href="IMG_1870.jpg" class="preview"><img src="IMG_1870.jpg" alt="サンプル画像" width="180" /></a>
-<a href="IMG_1871.jpg" class="preview"><img src="IMG_1871.jpg" alt="サンプル画像" width="180" /></a>
-<a href="IMG_1872.jpg" class="preview"><img src="IMG_1872.jpg" alt="サンプル画像" width="180" /></a>
-<a href="IMG_1873.jpg" class="preview"><img src="IMG_1873.jpg" alt="サンプル画像" width="180" /></a>
+<a href="IMG_1869.JPG" class="preview"><img src="IMG_1869.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_1870.JPG" class="preview"><img src="IMG_1870.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_1871.JPG" class="preview"><img src="IMG_1871.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_1872.JPG" class="preview"><img src="IMG_1872.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_1873.JPG" class="preview"><img src="IMG_1873.JPG" alt="サンプル画像" width="180" /></a>
 <a href="20180614_08.jpg" class="preview"><img src="20180614_08.jpg" alt="サンプル画像" width="180" /></a>
 <a href="20180614_09.jpg" class="preview"><img src="20180614_09.jpg" alt="サンプル画像" width="180" /></a>
 <a href="20180614_10.jpg" class="preview"><img src="20180614_10.jpg" alt="サンプル画像" width="180" /></a><br><br>
