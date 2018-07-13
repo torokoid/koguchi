@@ -93,35 +93,35 @@ body::before {
 <div style="background-color:rgb(255,255,255,0.2);">
 <h3><span class="snow">・・・開催宣言・・・<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
-From: Ryusuke Akita (秋田 隆介)
-Sent: Tuesday, June 12, 2018 1:23 PM
-To: Yasuhiro Toyoda (豊田 泰弘) <yasuhiro_toyoda@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Humio Ishii (石井 文生) <humio_ishii@n.t.rd.honda.co.jp>; Tetsuya Karita (刈田 哲也) <tetsuya_karita@n.t.rd.honda.co.jp>; HIDETOSHI IMAIZUMI (今泉 秀俊) <Hidetoshi_Imaizumi@hm.honda.co.jp>; Yusuke Sogawa (曽川 祐輔) <Yusuke_Sogawa@n.t.rd.honda.co.jp>; Ken Hayasaka (早坂 健) <ken_hayasaka@n.t.rd.honda.co.jp>; Jingxun Li (李 京勲) <jingxun_li@n.t.rd.honda.co.jp>
-Subject: 暑気払いのお誘い
+From: Ryusuke Akita (秋田 隆介)<br/>
+Sent: Tuesday, June 12, 2018 1:23 PM<br/>
+To: Yasuhiro Toyoda (豊田 泰弘) <yasuhiro_toyoda@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Humio Ishii (石井 文生) <humio_ishii@n.t.rd.honda.co.jp>; Tetsuya Karita (刈田 哲也) <tetsuya_karita@n.t.rd.honda.co.jp>; HIDETOSHI IMAIZUMI (今泉 秀俊) <Hidetoshi_Imaizumi@hm.honda.co.jp>; Yusuke Sogawa (曽川 祐輔) <Yusuke_Sogawa@n.t.rd.honda.co.jp>; Ken Hayasaka (早坂 健) <ken_hayasaka@n.t.rd.honda.co.jp>; Jingxun Li (李 京勲) <jingxun_li@n.t.rd.honda.co.jp><br/>
+Subject: 暑気払いのお誘い<br/>
  
  
-みなさま
+みなさま<br/>
  
-お世話になります。1G1 秋田(8772072)です。
+お世話になります。1G1 秋田(8772072)です。<br/>
  
-早速ですが標記の件、
-7月の下記日程のどこかで飲み会しませんか？というお誘いです。
+早速ですが標記の件、<br/>
+7月の下記日程のどこかで飲み会しませんか？というお誘いです。<br/>
  
-つきましては、参加可否を埋めて今週いっぱいをめどに返信お願いします。
-ちなみにお店は中華かなと思っています。
+つきましては、参加可否を埋めて今週いっぱいをめどに返信お願いします。<br/>
+ちなみにお店は中華かなと思っています。<br/>
  
-　 	7/13(金) 	7/20(金) 	7/27(金)
-豊田さん 	　 	　 	　
-羽田さん 	　 	　 	　
-石井さん 	　 	　 	　
-刈田さん 	　 	　 	　
-今泉さん 	　 	　 	　
-曽川さん 	　 	　 	　
-早坂さん 	　 	　 	　
-李さん 	　 	　 	　
-古口さん 	? 	? 	?
-秋田 	○ 	○ 	○
+　 	7/13(金) 	7/20(金) 	7/27(金)<br/>
+豊田さん 	<br/>　 	　 	　
+羽田さん 	<br/>	　 	　
+石井さん 	<br/>	　 	　
+刈田さん 	<br/> 	　 	　
+今泉さん 	<br/>　 	　 	　
+曽川さん 	<br/>　 	　 	　
+早坂さん 	<br/>　 	　 	　
+李さん 	 <br/> 	　 	　
+古口さん 	? 	? 	?<br/>
+秋田 	○ 	○ 	○<br/>
  
-以上、よろしくお願いいたします。
+以上、よろしくお願いいたします。<br/>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
 	</div></div>
   </body>
