@@ -74,7 +74,7 @@ body::before {
 <h1><span class="yellow"><marquee behavior="alternate">!!! 古口さんつながり、飲み会の記録 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br>
-<p align="right">20180713の東口夕焼けそら</p>
+<p align="right">20180713の東口夕焼け空</p>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2018年7月13日、暑気払い飲み会＠宇都宮駅東口「あん」 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
@@ -152,5 +152,5 @@ Subject: 暑気払いのお誘い<br/>
 
 <!-- フッタ -->
  <footer>
- Copyright 2018/07/14 S.Hada
+ <span class="white">Copyright 2018/07/14 S.Hada
  </footer>
