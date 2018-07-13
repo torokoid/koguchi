@@ -30,10 +30,10 @@ font-size: 1.5em;
 	text-align: center;
 }
 
-<!--  body { background: url(https://torokoid.github.io/fts/20180614_01.JPG) repeat-y top center fixed;  background-size:contain; "} 
+<!--  body { background: url(https://torokoid.github.io/koguchi/IMG_1867.JPG) repeat-y top center fixed;  background-size:contain; "} 
 -->
 
-<!-- #wrap {background:url(https://torokoid.github.io/fts/20180614_01.JPG) center/cover no-repeat fixed}
+<!-- #wrap {background:url(https://torokoid.github.io/koguchi/IMG_1867.JPG) center/cover no-repeat fixed}
 -->
 
 #wrap {background:none} /*PC用の背景はオフ*/
@@ -46,13 +46,13 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/fts/20180614_01.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/koguchi/IMG_1867.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
 <!-- 
    body::before {
-  background:url('https://torokoid.github.io/fts/20180614_01.JPG') no-repeat center top;
+  background:url('https://torokoid.github.io/koguchi/IMG_1867.JPG') no-repeat center top;
   background-size: 100% auto;
   display: block;
   position: fixed;
@@ -71,18 +71,18 @@ body::before {
    
 </head>
 <body>
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2018年6月14日(木)にFTS同窓会が執り行われました !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 古口さんつながり、飲み会の記録 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
-<a href="20180614_05.jpg" class="preview"><img src="20180614_05.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_03.jpg" class="preview"><img src="20180614_03.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_04.jpg" class="preview"><img src="20180614_04.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_02.jpg" class="preview"><img src="20180614_02.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_06.jpg" class="preview"><img src="20180614_06.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_07.jpg" class="preview"><img src="20180614_07.jpg" alt="サンプル画像" width="180" /></a>
+<a href="IMG_1874.JPG" class="preview"><img src="IMG_1874.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="IMG_1869.jpg" class="preview"><img src="IMG_1869.jpg" alt="サンプル画像" width="180" /></a>
+<a href="IMG_1870.jpg" class="preview"><img src="IMG_1870.jpg" alt="サンプル画像" width="180" /></a>
+<a href="IMG_1871.jpg" class="preview"><img src="IMG_1871.jpg" alt="サンプル画像" width="180" /></a>
+<a href="IMG_1872.jpg" class="preview"><img src="IMG_1872.jpg" alt="サンプル画像" width="180" /></a>
+<a href="IMG_1873.jpg" class="preview"><img src="IMG_1873.jpg" alt="サンプル画像" width="180" /></a>
 <a href="20180614_08.jpg" class="preview"><img src="20180614_08.jpg" alt="サンプル画像" width="180" /></a>
 <a href="20180614_09.jpg" class="preview"><img src="20180614_09.jpg" alt="サンプル画像" width="180" /></a>
 <a href="20180614_10.jpg" class="preview"><img src="20180614_10.jpg" alt="サンプル画像" width="180" /></a><br><br>
