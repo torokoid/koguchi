@@ -30,10 +30,10 @@ font-size: 1.5em;
 	text-align: center;
 }
 
-<!--  body { background: url(https://torokoid.github.io/koguchi/IMG_1867.JPG) repeat-y top center fixed;  background-size:contain; "} 
+<!--  body { background: url(https://torokoid.github.io/koguchi/IMG_1866.JPG) repeat-y top center fixed;  background-size:contain; "} 
 -->
 
-<!-- #wrap {background:url(https://torokoid.github.io/koguchi/IMG_1867.JPG) center/cover no-repeat fixed}
+<!-- #wrap {background:url(https://torokoid.github.io/koguchi/IMG_1866.JPG) center/cover no-repeat fixed}
 -->
 
 #wrap {background:none} /*PC用の背景はオフ*/
@@ -46,7 +46,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/koguchi/IMG_1867.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/koguchi/IMG_1866.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -83,7 +83,7 @@ body::before {
 <a href="IMG_1870.JPG" class="preview"><img src="IMG_1870.JPG" alt="サンプル画像" width="180" /></a>
 <a href="IMG_1871.JPG" class="preview"><img src="IMG_1871.JPG" alt="サンプル画像" width="180" /></a>
 <a href="IMG_1872.JPG" class="preview"><img src="IMG_1872.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_1873.JPG" class="preview"><img src="IMG_1873.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_1867.JPG" class="preview"><img src="IMG_1867.JPG" alt="サンプル画像" width="180" /></a>
 </div>
 
 <br><br>
