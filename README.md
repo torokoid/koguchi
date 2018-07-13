@@ -124,9 +124,8 @@ Subject: 暑気払いのお誘い<br/>
  
 <br>以上、よろしくお願いいたします。<br/>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
-<br><br><br><br><br>
 	</div></div>
-	
+<br><br><br><br><br>	
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2018年2月2日、桑原さん中国北京駐在、壮行会 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
