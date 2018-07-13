@@ -84,26 +84,7 @@ body::before {
 <a href="IMG_1871.JPG" class="preview"><img src="IMG_1871.JPG" alt="サンプル画像" width="180" /></a>
 <a href="IMG_1872.JPG" class="preview"><img src="IMG_1872.JPG" alt="サンプル画像" width="180" /></a>
 <a href="IMG_1873.JPG" class="preview"><img src="IMG_1873.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_08.jpg" class="preview"><img src="20180614_08.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_09.jpg" class="preview"><img src="20180614_09.jpg" alt="サンプル画像" width="180" /></a>
-<a href="20180614_10.jpg" class="preview"><img src="20180614_10.jpg" alt="サンプル画像" width="180" /></a><br><br>
-<a href="20180614_11.JPG" class="preview"><img src="20180614_11.JPG" alt="サンプル画像" width="500" /></a>
-<a href="20180614_01.JPG" class="preview"><img src="20180614_01.JPG" alt="サンプル画像" width="250" /></a>
-<h6><span class="white">↑パノラマ・マジックで、横山さんの手が千手観音になったり、誰だかわからない女性がいたりします。<br>
-画像のダウンロード要望がありましたので、背景画像へのリンクも付けました。</span></h6><br>
-<a href="20180614_12.JPG" class="preview"><img src="20180614_12.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_13.JPG" class="preview"><img src="20180614_13.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_14.JPG" class="preview"><img src="20180614_14.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_15.JPG" class="preview"><img src="20180614_15.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_16.JPG" class="preview"><img src="20180614_16.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_17.JPG" class="preview"><img src="20180614_17.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_18.JPG" class="preview"><img src="20180614_18.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_19.JPG" class="preview"><img src="20180614_19.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_20.JPG" class="preview"><img src="20180614_20.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_21.JPG" class="preview"><img src="20180614_21.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_22.JPG" class="preview"><img src="20180614_22.JPG" alt="サンプル画像" width="180" /></a>
-<a href="20180614_23.JPG" class="preview"><img src="20180614_23.JPG" alt="サンプル画像" width="180" /></a>
-<h3><span class="white">パノラマから上は櫛田さん、パノラマから下は緑川さん、背景画像は里村さんから頂きました。</span></h3></div>
+</div>
 
 <br><br>
 
@@ -112,23 +93,35 @@ body::before {
 <div style="background-color:rgb(255,255,255,0.2);">
 <h3><span class="snow">・・・開催宣言・・・<br>
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
-From: Masayo Arai (荒井 雅代)<br>
-Sent: Monday, June 04, 2018 2:12 PM<br>
-To: mm113.green@gmail.com; kazk408@gmail.com; tomiji.sugimoto@tmg-n.com; gonnemomo@yahoo.co.jp; yoshi.0611yama@ezweb.ne.jp; m-tsuge0392@xb4.so-net.ne.jp; Toshio Yokoyama (横山 利夫) <Toshio_Yokoyama@n.t.rd.honda.co.jp>; Tadahiro Yaguchi (矢口 忠博) <tadahiro_yaguchi@n.w.rd.honda.co.jp>; Yasuhiro Sakashita (坂下 泰広) <yasuhiro_sakashita@n.w.rd.honda.co.jp>; 0nh75b05325615n@ezweb.ne.jp; Shuichi Kato (加藤 秀一) <shuichi.kato@mail.a.rd.honda.co.jp>; Yuji Saito (斉藤 祐司) <yuji_saito@n.w.rd.honda.co.jp>; Takero Shibukawa (澁川 岳郎) <takero_shibukawa@n.w.rd.honda.co.jp>; Minoru Kobayashi (小林 実) <minoru_kobayashi@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Yutaka Kamata (鎌田 豊) <Yutaka_Kamata@n.t.rd.honda.co.jp>; MASASHI SATOMURA (里村 昌史) <Masashi_Satomura@hm.honda.co.jp>; KAZUYA TAMURA (田村 和也) <kazuya_tamura@hm.honda.co.jp>; Kazuyuki Maruyama (丸山 一幸) <kazuyuki.maruyama@mail.a.rd.honda.co.jp><br>
-Subject: 【人数確認】　FTS関連同窓会　<br>
-関係者各位<br>
-お世話様でございます。<br>
-FTS関連の同窓会を以下の日程で行います。<br>
-参加できる方は、このメールに6月7日（木）までにお返事くださーい。<br>
-日時：2018年6月14日（木）19:00～<br>
-場所：Chinese Grill 随園別館 京橋店<br>
-        050-3476-0232<br>
-        https://r.gnavi.co.jp/p386002/<br>
-内容：コース料理を注文する予定<br>
-予約名：荒井<br>
-よろしくお願いいたします。<br>　
-荒井　雅代<br>
-株式会社 本田技術研究所　R&DセンターＸ<br>
+From: Ryusuke Akita (秋田 隆介)
+Sent: Tuesday, June 12, 2018 1:23 PM
+To: Yasuhiro Toyoda (豊田 泰弘) <yasuhiro_toyoda@n.t.rd.honda.co.jp>; Satoshi Hada (羽田 智) <satoshi_hada@n.t.rd.honda.co.jp>; Humio Ishii (石井 文生) <humio_ishii@n.t.rd.honda.co.jp>; Tetsuya Karita (刈田 哲也) <tetsuya_karita@n.t.rd.honda.co.jp>; HIDETOSHI IMAIZUMI (今泉 秀俊) <Hidetoshi_Imaizumi@hm.honda.co.jp>; Yusuke Sogawa (曽川 祐輔) <Yusuke_Sogawa@n.t.rd.honda.co.jp>; Ken Hayasaka (早坂 健) <ken_hayasaka@n.t.rd.honda.co.jp>; Jingxun Li (李 京勲) <jingxun_li@n.t.rd.honda.co.jp>
+Subject: 暑気払いのお誘い
+ 
+ 
+みなさま
+ 
+お世話になります。1G1 秋田(8772072)です。
+ 
+早速ですが標記の件、
+7月の下記日程のどこかで飲み会しませんか？というお誘いです。
+ 
+つきましては、参加可否を埋めて今週いっぱいをめどに返信お願いします。
+ちなみにお店は中華かなと思っています。
+ 
+　 	7/13(金) 	7/20(金) 	7/27(金)
+豊田さん 	　 	　 	　
+羽田さん 	　 	　 	　
+石井さん 	　 	　 	　
+刈田さん 	　 	　 	　
+今泉さん 	　 	　 	　
+曽川さん 	　 	　 	　
+早坂さん 	　 	　 	　
+李さん 	　 	　 	　
+古口さん 	? 	? 	?
+秋田 	○ 	○ 	○
+ 
+以上、よろしくお願いいたします。
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
 	</div></div>
   </body>
