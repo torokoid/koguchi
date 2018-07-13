@@ -152,5 +152,5 @@ Subject: 暑気払いのお誘い<br/>
 
 <!-- フッタ -->
  <footer>
- <span class="white">Copyright 2018/07/14 S.Hada
+ <span class="white">Copyright 2018/07/14 S.Hada</span>
  </footer>
