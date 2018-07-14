@@ -141,7 +141,7 @@ Subject: 暑気払いのお誘い<br/>
 <a href="IMG_E0354.JPG" class="preview"><img src="IMG_E0354.JPG" alt="サンプル画像" width="180" /></a>
 <a href="IMG_E0355.JPG" class="preview"><img src="IMG_E0355.JPG" alt="サンプル画像" width="180" /></a>
 </div>
-
+</div>
 <br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
   </body>
