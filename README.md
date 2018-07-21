@@ -30,11 +30,6 @@ font-size: 1.5em;
 	text-align: center;
 }
 
-<!--  body { background: url(https://torokoid.github.io/koguchi/IMG_1866.JPG) repeat-y top center fixed;  background-size:contain; "} 
--->
-
-<!-- #wrap {background:url(https://torokoid.github.io/koguchi/IMG_1866.JPG) center/cover no-repeat fixed}
--->
 
 #wrap {background:none} /*PC用の背景はオフ*/
 body::before {
@@ -49,22 +44,6 @@ body::before {
   background:url(https://torokoid.github.io/koguchi/IMG_1866.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
-
-<!-- 
-   body::before {
-  background:url('https://torokoid.github.io/koguchi/IMG_1867.JPG') no-repeat center top;
-  background-size: 100% auto;
-  display: block;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 80%;
-  height: 100%;
-  padding-bottom: 108px;
-  content: "";
-  z-index: -1;
-}
--->
 
 
 </style> 
