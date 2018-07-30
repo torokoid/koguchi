@@ -51,7 +51,7 @@ body::before {
 </head>
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 古口さんつながり、飲み会の記録 !!!</marquee></span></h1>
-<p align="right">20180713、宇都宮駅東口の夕焼け空</p>
+<p align="right">2018/07/13、宇都宮駅東口の夕焼け空</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2018年7月13日、暑気払い飲み会＠宇都宮駅東口「あん」 !!!</marquee></span></h2>
