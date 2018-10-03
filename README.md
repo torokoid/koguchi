@@ -47,6 +47,8 @@ body::before {
 
 
 </style> 
+
+ <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
    
 </head>
 <body>
@@ -58,12 +60,12 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
-<a href="IMG_1874.JPG" class="preview"><img src="IMG_1874.JPG" alt="サンプル画像" width="1800" /></a>
-<a href="IMG_1869.JPG" class="preview"><img src="IMG_1869.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_1870.JPG" class="preview"><img src="IMG_1870.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_1871.JPG" class="preview"><img src="IMG_1871.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_1872.JPG" class="preview"><img src="IMG_1872.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_1867.JPG" class="preview"><img src="IMG_1867.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_1874.JPG" data-lightbox="abc" class="preview"><img src="IMG_1874.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="IMG_1869.JPG" data-lightbox="abc" class="preview"><img src="IMG_1869.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_1870.JPG" data-lightbox="abc" class="preview"><img src="IMG_1870.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_1871.JPG" data-lightbox="abc" class="preview"><img src="IMG_1871.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_1872.JPG" data-lightbox="abc" class="preview"><img src="IMG_1872.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_1867.JPG" data-lightbox="abc" class="preview"><img src="IMG_1867.JPG" alt="サンプル画像" width="180" /></a>
 </div>
 
 <br><br>
@@ -109,20 +111,24 @@ Subject: 暑気払いのお誘い<br/>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
-<a href="IMG_E0356.JPG" class="preview"><img src="IMG_E0356.JPG" alt="サンプル画像" width="1800" /></a>
-<a href="IMG_E0357.JPG" class="preview"><img src="IMG_E0357.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_E0358.JPG" class="preview"><img src="IMG_E0358.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_E0359.JPG" class="preview"><img src="IMG_E0359.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_E0350.JPG" class="preview"><img src="IMG_E0350.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_E0351.JPG" class="preview"><img src="IMG_E0351.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_E0352.JPG" class="preview"><img src="IMG_E0352.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_E0353.JPG" class="preview"><img src="IMG_E0353.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_E0354.JPG" class="preview"><img src="IMG_E0354.JPG" alt="サンプル画像" width="180" /></a>
-<a href="IMG_E0355.JPG" class="preview"><img src="IMG_E0355.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_E0356.JPG" data-lightbox="abc" class="preview"><img src="IMG_E0356.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="IMG_E0357.JPG" data-lightbox="abc" class="preview"><img src="IMG_E0357.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_E0358.JPG" data-lightbox="abc" class="preview"><img src="IMG_E0358.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_E0359.JPG" data-lightbox="abc" class="preview"><img src="IMG_E0359.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_E0350.JPG" data-lightbox="abc" class="preview"><img src="IMG_E0350.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_E0351.JPG" data-lightbox="abc" class="preview"><img src="IMG_E0351.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_E0352.JPG" data-lightbox="abc" class="preview"><img src="IMG_E0352.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_E0353.JPG" data-lightbox="abc" class="preview"><img src="IMG_E0353.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_E0354.JPG" data-lightbox="abc" class="preview"><img src="IMG_E0354.JPG" alt="サンプル画像" width="180" /></a>
+<a href="IMG_E0355.JPG" data-lightbox="abc" class="preview"><img src="IMG_E0355.JPG" alt="サンプル画像" width="180" /></a>
 </div>
 </div>
 <br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>	
+
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
+
   </body>
 
 </html>
