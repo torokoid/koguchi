@@ -59,7 +59,7 @@ body::before {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2018年7月13日、暑気払い飲み会＠宇都宮駅東口「あん」 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
+<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はほかの部分をクリックしてお戻りください。</span></h3>
 <a href="IMG_1874.JPG" data-lightbox="abc" class="preview"><img src="IMG_1874.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="IMG_1869.JPG" data-lightbox="abc" class="preview"><img src="IMG_1869.JPG" alt="サンプル画像" width="180" /></a>
 <a href="IMG_1870.JPG" data-lightbox="abc" class="preview"><img src="IMG_1870.JPG" alt="サンプル画像" width="180" /></a>
@@ -110,7 +110,7 @@ Subject: 暑気払いのお誘い<br/>
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2018年2月2日、桑原さん中国北京駐在、壮行会 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
-<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はブラウザの戻るボタンでお戻りください。</span></h3>
+<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はほかの部分をクリックしてお戻りください。</span></h3>
 <a href="IMG_E0356.JPG" data-lightbox="abc" class="preview"><img src="IMG_E0356.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="IMG_E0357.JPG" data-lightbox="abc" class="preview"><img src="IMG_E0357.JPG" alt="サンプル画像" width="180" /></a>
 <a href="IMG_E0358.JPG" data-lightbox="abc" class="preview"><img src="IMG_E0358.JPG" alt="サンプル画像" width="180" /></a>
