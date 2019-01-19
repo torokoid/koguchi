@@ -60,15 +60,14 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はほかの部分をクリックしてお戻りください。</span></h3>
+<h3><span class="snow">このお酒は美味しかった！<br></span></h3>
 <a href="20190118_02.JPG" data-lightbox="abc"><img src="20190118_02.JPG" alt="サンプル画像" width="1800" /></a>
 <a href="20190118_01.JPG" data-lightbox="abc"><img src="20190118_01.JPG" alt="サンプル画像" width="1800" /></a>
 	
 <div style="background-color:rgb(255,255,255,0.2);">
 <h3><span class="snow">・・・病欠宣言・・・<br>
-★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 今回は年明けの冷え込みに伴い病欠者が多発、最終的に４名の参加となりました。<br/>
-以下はライン連絡網の記録<br>
-★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
+以下はライン連絡網の記録<br></span></h3>
 </div>	
 <a href="20190118_03.JPG" data-lightbox="abc"><img src="20190118_03.JPG" alt="サンプル画像" width="1300" /></a>
 <a href="20190118_04.JPG" data-lightbox="abc"><img src="20190118_04.JPG" alt="サンプル画像" width="1300" /></a>
