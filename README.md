@@ -56,6 +56,22 @@ body::before {
 <p align="right">2018/07/13、宇都宮駅東口の夕焼け空</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2019年1月18日、新年会＠宇都宮駅東口、韓国焼肉「スンチャン」 !!!</marquee></span></h2>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はほかの部分をクリックしてお戻りください。</span></h3>
+<a href="20190118_01.JPG" data-lightbox="abc"><img src="20190118_01.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="20190118_02.JPG" data-lightbox="abc"><img src="20190118_02.JPG" alt="サンプル画像" width="1800" /></a>
+<a href="20190118_03.JPG" data-lightbox="abc"><img src="20190118_03.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190118_04.JPG" data-lightbox="abc"><img src="20190118_04.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190118_05.JPG" data-lightbox="abc"><img src="20190118_05.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190118_06.JPG" data-lightbox="abc"><img src="20190118_06.JPG" alt="サンプル画像" width="200" /></a>
+</div>
+
+<br><br>
+
+
+
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2018年7月13日、暑気払い飲み会＠宇都宮駅東口「あん」 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
