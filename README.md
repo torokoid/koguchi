@@ -65,19 +65,18 @@ body::before {
 	
 <div style="background-color:rgb(255,255,255,0.2);">
 <h3><span class="snow">・・・病欠宣言・・・<br>
-★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br>
 今回は年明けの冷え込みに伴い病欠者が多発、最終的に４名の参加となりました。<br/>
 以下はライン連絡網の記録<br>
-★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★<br></span></h3>
 </div>	
-<a href="20190118_03.JPG" data-lightbox="abc"><img src="20190118_03.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20190118_04.JPG" data-lightbox="abc"><img src="20190118_04.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20190118_05.JPG" data-lightbox="abc"><img src="20190118_05.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20190118_06.JPG" data-lightbox="abc"><img src="20190118_06.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190118_03.JPG" data-lightbox="abc"><img src="20190118_03.JPG" alt="サンプル画像" width="1300" /></a>
+<a href="20190118_04.JPG" data-lightbox="abc"><img src="20190118_04.JPG" alt="サンプル画像" width="1300" /></a>
+<a href="20190118_05.JPG" data-lightbox="abc"><img src="20190118_05.JPG" alt="サンプル画像" width="1300" /></a>
+<a href="20190118_06.JPG" data-lightbox="abc"><img src="20190118_06.JPG" alt="サンプル画像" width="1300" /></a>
 </div>
 
-<br><br>
-
+<br><br><br><br><br>
 
 
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2018年7月13日、暑気払い飲み会＠宇都宮駅東口「あん」 !!!</marquee></span></h2>
