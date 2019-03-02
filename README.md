@@ -61,7 +61,7 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はほかの部分をクリックしてお戻りください。</span></h3>
-<h3><span class="snow">古口さんより、皆さんにお土産いただきました！<br></span></h3>
+<h3><span class="snow">古口さんより、皆さんにお土産いただきました！・・・すでに何個か食べちゃってますが・・・<br></span></h3>
 <a href="20190301_011.jpg" data-lightbox="abc"><img src="20190301_011.jpg" alt="サンプル画像" width="1300" /></a>	
 <a href="20190301_001.jpg" data-lightbox="abc"><img src="20190301_001.jpg" alt="サンプル画像" width="220" /></a>
 <a href="20190301_002.jpg" data-lightbox="abc"><img src="20190301_002.jpg" alt="サンプル画像" width="220" /></a>	
