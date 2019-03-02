@@ -41,7 +41,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/koguchi/IMG_1866.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/koguchi/20190301_000.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -53,7 +53,7 @@ body::before {
 </head>
 <body>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 古口さんつながり、飲み会の記録 !!!</marquee></span></h1>
-<p align="right">2018/07/13、宇都宮駅東口の夕焼け空</p>
+<p align="right">2019/03/01、宇都宮駅東口の夜景</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
