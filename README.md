@@ -62,16 +62,16 @@ body::before {
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はほかの部分をクリックしてお戻りください。</span></h3>
 <h3><span class="snow">古口さんより、皆さんにお土産いただきました！<br></span></h3>
-<a href="20190301_011.JPG" data-lightbox="abc"><img src="20190301_011.JPG" alt="サンプル画像" width="1300" /></a>	
-<a href="20190301_002.JPG" data-lightbox="abc"><img src="20190301_002.JPG" alt="サンプル画像" width="200" /></a>	
-<a href="20190301_003.JPG" data-lightbox="abc"><img src="20190301_003.JPG" alt="サンプル画像" width="200" /></a>	
-<a href="20190301_004.JPG" data-lightbox="abc"><img src="20190301_004.JPG" alt="サンプル画像" width="200" /></a>	
-<a href="20190301_005.JPG" data-lightbox="abc"><img src="20190301_005.JPG" alt="サンプル画像" width="200" /></a>	
-<a href="20190301_006.JPG" data-lightbox="abc"><img src="20190301_006.JPG" alt="サンプル画像" width="200" /></a>	
-<a href="20190301_007.JPG" data-lightbox="abc"><img src="20190301_007.JPG" alt="サンプル画像" width="200" /></a>	
-<a href="20190301_008.JPG" data-lightbox="abc"><img src="20190301_008.JPG" alt="サンプル画像" width="200" /></a>	
-<a href="20190301_009.JPG" data-lightbox="abc"><img src="20190301_009.JPG" alt="サンプル画像" width="200" /></a>	
-<a href="20190301_001.JPG" data-lightbox="abc"><img src="20190301_001.JPG" alt="サンプル画像" width="200" /></a>	
+<a href="20190301_011.jpg" data-lightbox="abc"><img src="20190301_011.jpg" alt="サンプル画像" width="1300" /></a>	
+<a href="20190301_002.jpg" data-lightbox="abc"><img src="20190301_002.jpg" alt="サンプル画像" width="200" /></a>	
+<a href="20190301_003.jpg" data-lightbox="abc"><img src="20190301_003.jpg" alt="サンプル画像" width="200" /></a>	
+<a href="20190301_004.jpg" data-lightbox="abc"><img src="20190301_004.jpg" alt="サンプル画像" width="200" /></a>	
+<a href="20190301_005.jpg" data-lightbox="abc"><img src="20190301_005.jpg" alt="サンプル画像" width="200" /></a>	
+<a href="20190301_006.jpg" data-lightbox="abc"><img src="20190301_006.jpg" alt="サンプル画像" width="200" /></a>	
+<a href="20190301_007.jpg" data-lightbox="abc"><img src="20190301_007.jpg" alt="サンプル画像" width="200" /></a>	
+<a href="20190301_008.jpg" data-lightbox="abc"><img src="20190301_008.jpg" alt="サンプル画像" width="200" /></a>	
+<a href="20190301_009.jpg" data-lightbox="abc"><img src="20190301_009.jpg" alt="サンプル画像" width="200" /></a>	
+<a href="20190301_001.jpg" data-lightbox="abc"><img src="20190301_001.jpg" alt="サンプル画像" width="200" /></a>	
 	
 </div>
 
