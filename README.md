@@ -72,7 +72,8 @@ body::before {
 <a href="20190301_007.jpg" data-lightbox="abc"><img src="20190301_007.jpg" alt="サンプル画像" width="200" /></a>	
 <a href="20190301_008.jpg" data-lightbox="abc"><img src="20190301_008.jpg" alt="サンプル画像" width="200" /></a>	
 <a href="20190301_009.jpg" data-lightbox="abc"><img src="20190301_009.jpg" alt="サンプル画像" width="200" /></a>		
-	
+<a href="20190301_000.jpg" data-lightbox="abc"><img src="20190301_000.jpg" alt="サンプル画像" width="200" /></a>
+
 </div>
 
 <br><br><br><br><br>
