@@ -45,6 +45,13 @@ body::before {
   -webkit-background-size:cover;/*Android4*/
   }
 
+@media	screen and (min-width: 540px),
+
+	screen and (orientation: landscape) {
+
+   p.note { display: none; }
+
+}
 
 </style> 
 
@@ -52,6 +59,10 @@ body::before {
    
 </head>
 <body>
+<p class="note">
+  モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
+</p>
+
 <h1><span class="yellow"><marquee behavior="alternate">!!! 古口さんつながり、飲み会の記録 !!!</marquee></span></h1>
 <p align="right">2019/03/01、宇都宮駅東口の夜景</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
