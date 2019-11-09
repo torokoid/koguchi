@@ -41,7 +41,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/koguchi/20190301_000.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/koguchi/201908_007.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -64,9 +64,27 @@ body::before {
 </p>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 古口さんつながり、飲み会の記録 !!!</marquee></span></h1>
-<p align="right">2019/03/01、宇都宮駅東口の夜景</p>
+<p align="right">2019/11/08、宇都宮駅東口「ぽんず」</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2019年11月8日(金)、忘年会＠宇都宮駅東口、「ぽんず」 !!!</marquee></span></h2>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はほかの部分をクリックしてお戻りください。</span></h3>
+<h3><span class="snow">古口さんより、皆さんにお土産いただきました！・・・すでに何個か食べちゃってますが・・・<br></span></h3>
+<a href="20191108_001.JPG" data-lightbox="abc"><img src="20191108_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191108_002.JPG" data-lightbox="abc"><img src="20191108_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191108_003.JPG" data-lightbox="abc"><img src="20191108_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191108_004.JPG" data-lightbox="abc"><img src="20191108_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191108_005.JPG" data-lightbox="abc"><img src="20191108_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191108_006.JPG" data-lightbox="abc"><img src="20191108_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191108_007.JPG" data-lightbox="abc"><img src="20191108_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20191108_008.JPG" data-lightbox="abc"><img src="20191108_008.JPG" alt="サンプル画像" width="900" /></a>
+
+</div>
+
+<br><br><br><br><br>
 	
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2019年3月1日(金)、新年会_2＠宇都宮駅東口、焼き鳥「でにーろ」 !!!</marquee></span></h2>
 <div id="wrap">
