@@ -41,7 +41,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/koguchi/201908_007.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/koguchi/20191108_007.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
