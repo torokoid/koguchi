@@ -205,10 +205,9 @@ Subject: 暑気払いのお誘い<br/>
 <script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
 <script src="https://torokoid.github.io/shiba/my.js"></script> 
 
-
+<!--
   </body>
-
-</html>
+</html>-->
 <br><br>
 
 <!-- フッタ -->
