@@ -102,7 +102,7 @@ body::before {
 <a href="20220513_020.JPG" data-lightbox="abc"><img src="20220513_020.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">豊田さんからは、万年筆のお返しをいただきました。</span></h3>
 <a href="20220513_021.JPG" data-lightbox="abc"><img src="20220513_021.JPG" alt="サンプル画像" width="900" /></a>
-	
+<a href="20220513_022.png" data-lightbox="abc"><img src="20220513_022.png" alt="サンプル画像" width="900" /></a>	
 
 	
 </div>
