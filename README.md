@@ -69,7 +69,7 @@ body::before {
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
 
-<h2><span class="yellow"><marquee behavior="alternate">!!! 2019年11月8日(金)、忘年会＠宇都宮駅東口、「ぽんず」 !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2022年5月13日(金)、豊田さんご卒業お祝い会＠宇都宮駅東口、「ひょうたん寿司」 !!!</marquee></span></h2>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はほかの部分をクリックしてお戻りください。</span></h3>
@@ -80,6 +80,7 @@ body::before {
 <a href="20220513_004.JPG" data-lightbox="abc"><img src="20220513_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_005.JPG" data-lightbox="abc"><img src="20220513_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_006.JPG" data-lightbox="abc"><img src="20220513_006.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">ますは、携帯ウォシュレットをお渡し。</span></h3>
 <a href="20220513_007.JPG" data-lightbox="abc"><img src="20220513_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_008.JPG" data-lightbox="abc"><img src="20220513_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_009.JPG" data-lightbox="abc"><img src="20220513_009.JPG" alt="サンプル画像" width="900" /></a>
@@ -89,11 +90,13 @@ body::before {
 <a href="20220513_013.JPG" data-lightbox="abc"><img src="20220513_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_014.JPG" data-lightbox="abc"><img src="20220513_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_015.JPG" data-lightbox="abc"><img src="20220513_015.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">豊田さんのお顔入り、特製グラス。</span></h3>
 <a href="20220513_016.JPG" data-lightbox="abc"><img src="20220513_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_017.JPG" data-lightbox="abc"><img src="20220513_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_018.JPG" data-lightbox="abc"><img src="20220513_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_019.JPG" data-lightbox="abc"><img src="20220513_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_020.JPG" data-lightbox="abc"><img src="20220513_020.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">豊田さんからは、万年筆のお返しをいただきました。</span></h3>
 <a href="20220513_021.JPG" data-lightbox="abc"><img src="20220513_021.JPG" alt="サンプル画像" width="900" /></a>
 	
 
