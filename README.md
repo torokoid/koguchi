@@ -81,7 +81,7 @@ body::before {
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XArcKwFWCYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="20220513_005.JPG" data-lightbox="abc"><img src="20220513_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_006.JPG" data-lightbox="abc"><img src="20220513_006.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">ますは、携帯ウォシュレットをお渡し。</span></h3>
+<h3><span class="white">まずは、携帯ウォシュレットをお渡し。</span></h3>
 <a href="20220513_007.JPG" data-lightbox="abc"><img src="20220513_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_008.JPG" data-lightbox="abc"><img src="20220513_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_009.JPG" data-lightbox="abc"><img src="20220513_009.JPG" alt="サンプル画像" width="900" /></a>
