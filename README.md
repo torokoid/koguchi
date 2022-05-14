@@ -78,6 +78,7 @@ body::before {
 <a href="20220513_002.JPG" data-lightbox="abc"><img src="20220513_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_003.JPG" data-lightbox="abc"><img src="20220513_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_004.JPG" data-lightbox="abc"><img src="20220513_004.JPG" alt="サンプル画像" width="900" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XArcKwFWCYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="20220513_005.JPG" data-lightbox="abc"><img src="20220513_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_006.JPG" data-lightbox="abc"><img src="20220513_006.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">ますは、携帯ウォシュレットをお渡し。</span></h3>
@@ -90,9 +91,12 @@ body::before {
 <a href="20220513_013.JPG" data-lightbox="abc"><img src="20220513_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_014.JPG" data-lightbox="abc"><img src="20220513_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_015.JPG" data-lightbox="abc"><img src="20220513_015.JPG" alt="サンプル画像" width="900" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rsIdAc2t6hI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h3><span class="white">豊田さんの笑顔入り、特製グラス。</span></h3>
 <a href="20220513_016.JPG" data-lightbox="abc"><img src="20220513_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_017.JPG" data-lightbox="abc"><img src="20220513_017.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">豊田さん、お礼のお言葉。</span></h3>	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y9kALdIbJog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="20220513_018.JPG" data-lightbox="abc"><img src="20220513_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_019.JPG" data-lightbox="abc"><img src="20220513_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_020.JPG" data-lightbox="abc"><img src="20220513_020.JPG" alt="サンプル画像" width="900" /></a>
