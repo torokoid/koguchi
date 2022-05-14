@@ -90,7 +90,7 @@ body::before {
 <a href="20220513_013.JPG" data-lightbox="abc"><img src="20220513_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_014.JPG" data-lightbox="abc"><img src="20220513_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_015.JPG" data-lightbox="abc"><img src="20220513_015.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">豊田さんのお顔入り、特製グラス。</span></h3>
+<h3><span class="white">豊田さんの笑顔入り、特製グラス。</span></h3>
 <a href="20220513_016.JPG" data-lightbox="abc"><img src="20220513_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_017.JPG" data-lightbox="abc"><img src="20220513_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220513_018.JPG" data-lightbox="abc"><img src="20220513_018.JPG" alt="サンプル画像" width="900" /></a>
