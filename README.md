@@ -72,7 +72,7 @@ body::before {
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
 <h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はほかの部分をクリックしてお戻りください。</span></h3>
-<h3><span class="snow">古口さんより、皆さんにお土産いただきました！・・・すでに何個か食べちゃってますが・・・<br></span></h3>
+
 <a href="20191108_001.JPG" data-lightbox="abc"><img src="20191108_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191108_002.JPG" data-lightbox="abc"><img src="20191108_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20191108_003.JPG" data-lightbox="abc"><img src="20191108_003.JPG" alt="サンプル画像" width="900" /></a>
