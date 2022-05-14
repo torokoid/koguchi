@@ -41,7 +41,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/koguchi/20191108_007.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/koguchi/20220513_020.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -64,9 +64,43 @@ body::before {
 </p>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 古口さんつながり、飲み会の記録 !!!</marquee></span></h1>
-<p align="right">2019/11/08、宇都宮駅東口「ぽんず」</p>
+<p align="right">2022/05/13、宇都宮駅東口「ひょうたん寿司」</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+	
+
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2019年11月8日(金)、忘年会＠宇都宮駅東口、「ぽんず」 !!!</marquee></span></h2>
+<div id="wrap">
+<div style="background-color:rgb(255,255,255,0.3);">
+<h3><span class="white">↓ 画像はクリックで拡大します。閲覧後はほかの部分をクリックしてお戻りください。</span></h3>
+	
+<a href="20220513_001.JPG" data-lightbox="abc"><img src="20220513_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220513_002.JPG" data-lightbox="abc"><img src="20220513_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220513_003.JPG" data-lightbox="abc"><img src="20220513_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220513_004.JPG" data-lightbox="abc"><img src="20220513_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220513_005.JPG" data-lightbox="abc"><img src="20220513_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220513_006.JPG" data-lightbox="abc"><img src="20220513_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220513_007.JPG" data-lightbox="abc"><img src="20220513_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220513_008.JPG" data-lightbox="abc"><img src="20220513_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220513_009.JPG" data-lightbox="abc"><img src="20220513_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220513_010.JPG" data-lightbox="abc"><img src="20220513_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220513_011.JPG" data-lightbox="abc"><img src="20220513_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220513_012.JPG" data-lightbox="abc"><img src="20220513_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220513_013.JPG" data-lightbox="abc"><img src="20220513_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220513_014.JPG" data-lightbox="abc"><img src="20220513_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220513_015.JPG" data-lightbox="abc"><img src="20220513_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220513_016.JPG" data-lightbox="abc"><img src="20220513_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220513_017.JPG" data-lightbox="abc"><img src="20220513_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220513_018.JPG" data-lightbox="abc"><img src="20220513_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220513_019.JPG" data-lightbox="abc"><img src="20220513_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220513_020.JPG" data-lightbox="abc"><img src="20220513_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220513_021.JPG" data-lightbox="abc"><img src="20220513_021.JPG" alt="サンプル画像" width="900" /></a>
+	
+
+	
+</div>
+
+<br><br><br><br><br>
 
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2019年11月8日(金)、忘年会＠宇都宮駅東口、「ぽんず」 !!!</marquee></span></h2>
 <div id="wrap">
